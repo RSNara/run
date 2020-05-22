@@ -1,0 +1,15 @@
+{
+  "name": "run",
+  "version": "1.0.0",
+  "description": "A collection of helper commands",
+  "main": "index.js",
+  "author": "Ramanpreet Nara",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "flow-node": "^2.125.1",
+    "shelljs": "^0.8.4",
+    "yargs": "^15.3.1"
+  }
+}

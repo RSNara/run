@@ -1,0 +1,4 @@
+{
+  "javascript.format.placeOpenBraceOnNewLineForControlBlocks": true,
+  "editor.formatOnSave": true
+}
