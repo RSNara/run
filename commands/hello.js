@@ -1,4 +1,5 @@
 const { cd, exec } = require("shelljs");
+const chalk = require("chalk");
 const name = "hello";
 const description = "Say Hello";
 
@@ -12,7 +13,7 @@ function api(yargs) {
 function main(argv) {
   cd("~");
   exec("echo Inside $(pwd)!");
-  exec("echo Hello" + (argv.world ? " world" : ""));
+  console.log("Hello" + (argv.world ? chalk.gray(" world!") : ""));
 }
 
 module.exports = {
