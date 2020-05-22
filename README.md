@@ -17,15 +17,17 @@ Then, `source ~/.bashrc`, and call into the scripts like this:
 
 ```
 run hello -w
+> Inside /Users/ramanpreet!
 > Hello world!
 
 run hello
+> Inside /Users/ramanpreet!
 > Hello
 ```
 
 ## Why?
 
-I personally find JS easier to write, test, and debug than BASH.
+I find JS easier to write, test, and debug than BASH.
 
 ## Included packags
 
