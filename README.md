@@ -32,5 +32,5 @@ I find JS easier to write, test, and debug than BASH.
 ## Included packags
 
 - [chalk](https://www.npmjs.com/package/chalk): For color-coded output
-- [shelljs](https://www.npmjs.com/package/shelljs): For easier calls into bash programs like `exec`, `cd`, etc.
+- [shelljs](https://www.npmjs.com/package/shelljs): For easier calls into programs like `ls`, `cd`, etc.
 - [flow-node](https://www.npmjs.com/package/flow-node): For type-safe scripts
