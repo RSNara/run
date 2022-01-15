@@ -9,7 +9,7 @@
   "dependencies": {
     "chalk": "^4.0.0",
     "flow-node": "^2.125.1",
-    "shelljs": "^0.8.4",
+    "shelljs": "^0.8.5",
     "yargs": "^15.3.1"
   }
 }
